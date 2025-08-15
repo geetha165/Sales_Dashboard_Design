@@ -1,8 +1,3 @@
-Got it ✅
-Here’s your **final README** for Task 8 in the same markdown style you used before:
-
----
-
 # 📊 Simple Sales Dashboard Design
 
 **Objective:** Create a basic interactive dashboard that shows sales performance by product, region, and month.
@@ -72,4 +67,3 @@ By completing this project, you will:
 
 ---
 
-Do you want me to now prepare the **README for Task 9** in the exact same style so all your internship tasks match perfectly in GitHub? That way your repository will look neat and professional.
